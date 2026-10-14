@@ -1,0 +1,11 @@
+# Configuración local: puede contener textos personalizados.
+mouse_text_paster_config.json
+dist/mouse_text_paster_config.json
+
+# Archivos temporales de Python y compilación.
+__pycache__/
+*.py[cod]
+build/
+build_runtime/
+.pip-cache/
+.pip-temp/
